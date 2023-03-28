@@ -1,0 +1,23 @@
+div{
+    border: 1px solid pink;
+}
+
+body {
+    padding: 10px;
+}
+
+.logo{
+    width: 100%;
+}
+
+.carrusel{
+    width: 400px;
+}
+.menu-superior{
+    text-align: right;
+}
+
+.menu-superior li{
+    display: inline;
+    margin-right: 20px;
+}
